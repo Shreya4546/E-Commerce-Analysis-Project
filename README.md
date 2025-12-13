@@ -156,8 +156,14 @@ This project was built as a **portfolio case study for a Data Analyst (Fresher)*
 ## Attached dashboard images for reference
 
 <img width="1163" height="662" alt="image" src="https://github.com/user-attachments/assets/079c4bc2-5876-4c0b-af1d-810552c52dec" />
+
+
 <img width="1166" height="656" alt="image" src="https://github.com/user-attachments/assets/ad3ee47a-7d47-4b21-9a0c-2966562f037a" />
+
+
 <img width="1175" height="652" alt="image" src="https://github.com/user-attachments/assets/243bfeb4-57a4-4bf5-8831-90e152d3509f" />
+
+
 <img width="1138" height="638" alt="image" src="https://github.com/user-attachments/assets/d0e44743-7a06-4418-9d1b-88d45ad40966" />
 
 
