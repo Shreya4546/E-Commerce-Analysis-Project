@@ -1,4 +1,4 @@
-#  E-Commerce Funnel, Cohort & Marketing Analytics Project
+# E-Commerce Customer Funnel & Cohort Retention Analysis | SQL, Python & Power BI
 
 ## Project Overview
 
