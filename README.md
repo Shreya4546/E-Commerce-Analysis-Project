@@ -10,7 +10,6 @@ The project follows a realistic analytics workflow:
 
 **Python → SQL → Power BI**
 
----
 
 ## Business Questions Addressed
 
@@ -20,7 +19,6 @@ The project follows a realistic analytics workflow:
 4. Which customer segments generate the most value and revenue?
 5. Which marketing channels deliver the highest ROAS and conversion efficiency?
 
----
 
 ## Tech Stack
 
@@ -28,7 +26,6 @@ The project follows a realistic analytics workflow:
 * **SQL (MySQL)** – Data modeling, transformations, and advanced analytics using window functions
 * **Power BI** – Interactive dashboards, KPIs, cohort heatmaps, and business storytelling
 
----
 
 ## Data Model
 
@@ -43,11 +40,10 @@ The project uses a relational data model including:
 
 > **Note:** Product category and stock-out data were intentionally excluded from the current dashboards to keep the analysis focused on user behavior, retention, and marketing efficiency. These tables are documented as future enhancement opportunities.
 
----
 
 ## Dashboards & Analysis
 
-### 1️⃣ User Funnel & Conversion Performance
+### 1. User Funnel & Conversion Performance
 
 **Focus:** Sessions → Add to Cart → Orders
 
@@ -66,9 +62,8 @@ The project uses a relational data model including:
 * Improving product discovery, site speed, or PDP UX (Product Detail Page User Experience) could significantly increase conversion.
 * Funnel trends and conversion rates are tracked monthly to identify performance changes.
 
----
 
-### 2️⃣ Cohort & Retention Analysis
+### 2. Cohort & Retention Analysis
 
 **Focus:** User retention by signup cohort
 
@@ -84,9 +79,8 @@ The project uses a relational data model including:
 * Best-performing cohort identified using Month-1 retention.
 * Customer base is growing, but low retention increases dependency on acquisition.
 
----
 
-### 3️⃣ Customer Segmentation & Lifetime Value (LTV)
+### 3. Customer Segmentation & Lifetime Value (LTV)
 
 **Focus:** Customer value and behavior using RFM segmentation
 
@@ -102,9 +96,8 @@ The project uses a relational data model including:
 * “Can’t Lose Them” customers generate high revenue but show churn risk.
 * Average LTV declines for newer cohorts, suggesting changing customer quality.
 
----
 
-### 4️⃣ Marketing Attribution & Performance
+### 4. Marketing Attribution & Performance
 
 **Focus:** Channel efficiency and ROI
 
@@ -120,7 +113,6 @@ The project uses a relational data model including:
 * Paid Social has the highest spend but relatively lower efficiency.
 * Marketing budget reallocation opportunities identified based on performance.
 
----
 
 ## SQL Techniques Used
 
@@ -130,7 +122,6 @@ The project uses a relational data model including:
 * Aggregations for LTV, and repeat rate calculations
 * Conditional logic for RFM segmentation
 
----
 
 ## Future Enhancements
 
@@ -139,7 +130,6 @@ The project uses a relational data model including:
 * Inventory optimization dashboards
 * Demand forecasting using historical sales trends
 
----
 
 ## Key Takeaways
 
@@ -147,7 +137,6 @@ The project uses a relational data model including:
 * Focuses on **business decision-making**, not just visualization
 * Uses realistic data modeling and SQL logic
 
----
 
 ## 📌 Author Note
 
